@@ -20,12 +20,12 @@ export default function StageReactSite() {
     {
       id: 'pourquoi',
       title: '🌟 Pourquoi ce stage en neuropsychologie ?',
-      content: `Bientôt en 3ème année de Licence de psychologie Accès Santé (LAS), je me retrouve à une période charnière : passionnée depuis toujours par les sciences médicales, je m’apprête à réaliser mon rêve et passer à nouveau le concours d’entrée en médecine l’année prochaine. Parallèlement j’étudie depuis 2 ans la psychologie pour laquelle j’ai développé un grand intérêt pour cette discipline centrée sur l’écoute et la compréhension de l’autre combinées aux sciences. La neuropsychologie représenterait donc une occasion unique pour moi de baigner dans un monde où médecine et psychologie s’entrecroisent naturellement.`
+      content: `Bientôt en 3ème année de Licence de psychologie Accès Santé (LAS), je me retrouve à une période charnière : passionnée depuis toujours par les sciences médicales, je m’apprête à réaliser mon rêve et passer à nouveau le concours d’entrée en médecine l’année prochaine. Parallèlement j’étudie depuis 2 ans la psychologie pour laquelle j’ai développé un grand intérêt, centrée sur l’écoute et la compréhension de l’autre combinées aux sciences. La neuropsychologie représenterait donc une occasion unique pour moi de baigner dans un monde où médecine et psychologie s’entrecroisent naturellement.`
     },
     {
       id: 'interet',
       title: '🧠 Ce qui m\'intéresse particulièrement dans la neuropsychologie :',
-      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifique, clinique, expérimentale et à la fois la sensibilité relationnelle, au-delà de l’humanité. La neuropsychologie fait appel à des tests standardisés, des évaluations des fonctions cognitives, d’études en sommes très poussées sur le cerveau du patient : une des branches de la psychologie qui s’étend si loin qu’elle frôle les feuilles de la médecine. Cette rigueur scientifique et rigoureuse correspond exactement à ce que je recherche pour approfondir mes connaissances. `
+      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifique, clinique, expérimentale et à la fois la sensibilité relationnelle, au-delà de l’humanité. La neuropsychologie fait appel à des tests standardisés, des évaluations des fonctions cognitives, d’études en somme très poussées sur le cerveau du patient : une des branches de la psychologie qui s’étend si loin qu’elle frôle les feuilles de la médecine. Cette rigueur scientifique et rigoureuse correspond exactement à ce que je recherche pour approfondir mes connaissances. `
     },
     {
       id: 'annee',
