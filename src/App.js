@@ -406,7 +406,7 @@ export default function StageReactSite() {
             <MailIcon className="w-4 h-4 mr-2" /> Envoyer un mail
           </button>
           <a
-            href="/Alice - CV - LM.zip"
+            href="/CV - Alice ARMATO-COLOGNE.pdf"
             download
             style={{
               padding: '8px 16px',
@@ -419,7 +419,7 @@ export default function StageReactSite() {
               textDecoration: 'none',
             }}
           >
-            <DownloadIcon className="w-4 h-4 mr-2" /> Télécharger mon CV et ma lettre de motivation
+            <DownloadIcon className="w-4 h-4 mr-2" /> Télécharger mon CV
           </a>
         </div>
       </div>
