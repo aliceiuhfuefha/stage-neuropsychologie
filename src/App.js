@@ -35,7 +35,7 @@ export default function StageReactSite() {
     {
       id: 'attentes',
       title: '🎯 Mes attentes pour ce stage :',
-      content: `Lors de ce stage, je souhaite avant tout de découvrir la prise en charge concrète de patients atteints de pathologies organiques entraînant des répercussions sur leur fonctions cognitives et leur psychisme. Ainsi qu’élucider clairement de mes propres yeux le rôle du neuropsychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
+      content: `Lors de ce stage, je souhaite avant tout de découvrir la prise en charge concrète de patients atteints de pathologies organiques entraînant des répercussions sur leur fonctions cognitives et leur psychisme. Ainsi qu’élucider clairement de mes propres yeux le rôle du psychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
     },
     {
       id: 'apporter',
