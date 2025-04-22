@@ -388,7 +388,7 @@ export default function StageReactSite() {
           📩 Me contacter
         </h2>
         <p style={{ ...blockTextStyle, fontSize: '1rem', color: '#333' }}>
-          alicearmatocologne@hotmail.com
+          alicearmatocologne@gmail.com
         </p>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', marginTop: '16px' }}>
           <button
