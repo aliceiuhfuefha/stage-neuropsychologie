@@ -392,7 +392,7 @@ export default function StageReactSite() {
         </p>
         <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', marginTop: '16px' }}>
           <button
-            onClick={() => window.open('mailto:alicearmatocologne@hotmail.com', '_blank')}
+            onClick={() => window.open('mailto:alicearmatocologne@gmail.com', '_blank')}
             style={{
               padding: '8px 16px',
               fontWeight: '500',
