@@ -20,22 +20,22 @@ export default function StageReactSite() {
     {
       id: 'pourquoi',
       title: '🌟 Pourquoi ce stage en neuropsychologie ?',
-      content: `Bientôt en 3ème année de Licence de psychologie Accès Santé (LAS), je me retrouve à une période charnière : passionnée depuis toujours par les sciences médicales, je m’apprête à réaliser mon rêve et passer à nouveau le concours d’entrée en médecine l’année prochaine. Parallèlement j’étudie depuis 2 ans la psychologie pour laquelle j’ai développé un grand intérêt, centrée sur l’écoute et la compréhension de l’autre combinées aux sciences. La neuropsychologie représenterait donc une occasion unique pour moi de baigner dans un monde où médecine et psychologie s’entrecroisent naturellement.`
+      content: `Bientôt en 3ème année de Licence Accès Santé (LAS), je me retrouve à une période charnière : passionnée depuis toujours par les sciences médicales, je m’apprête à réaliser mon rêve et passer à nouveau le concours d’entrée en médecine l’année prochaine. Parallèlement, j'étudie depuis deux ans une discipline pour laquelle j'ai développé un grand intérêt, fondée sur l'écoute et la compréhension de l'autre : la psychologie. La neuropsychologie représenterait donc une occasion unique pour moi de baigner dans un monde où médecine et psychologie s’entrecroisent naturellement.`
     },
     {
       id: 'interet',
       title: '🧠 Ce qui m\'intéresse particulièrement dans la neuropsychologie :',
-      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifique, clinique, expérimentale et à la fois la sensibilité relationnelle, au-delà de l’humanité. La neuropsychologie fait appel à des tests standardisés, des évaluations des fonctions cognitives, d’études en somme très poussées sur le cerveau du patient : une des branches de la psychologie qui s’étend si loin qu’elle frôle les feuilles de la médecine. Cette rigueur scientifique et rigoureuse correspond exactement à ce que je recherche pour approfondir mes connaissances. `
+      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifiques, cliniques, expérimentales ainsi que sa sensibilité relationnelle, au-delà de l’humanité. La neuropsychologie fait appel à des tests standardisés, des évaluations des fonctions cognitives, d’études en somme très poussées sur le cerveau du patient : une des branches de la psychologie qui s’étend si loin qu’elle frôle les feuilles de la médecine. Cette rigueur scientifique et rigoureuse correspond exactement à ce que je recherche pour approfondir mes connaissances. `
     },
     {
       id: 'annee',
       title: '📅 Concernant l\'année 2024-2025 :',
-      content: `Cette année universitaire fut particulière pour moi, ayant redoublé d'une matière pour pouvoir continuer ma Licence Accès Santé et ainsi passer mon concours. Sans cela, je serai entrée en licence simple de psychologie, mais je souhaitais tenter ma chance. Durant le premier semestre, je n'ai réalisé aucun stage, en effet, je me suis pleinement investie dans l'achat et dans l’emménagement de mon premier appartement, un projet personnel désormais réalisé.`
+      content: `Cette année universitaire fut particulière pour moi, ayant redoublé d'une matière pour pouvoir continuer ma Licence Accès Santé et ainsi passer mon concours. Sans cela, je serai entrée en licence simple de psychologie, mais je souhaitais tenter ma chance. Durant le premier semestre, je me suis pleinement investie dans l'achat et dans l’emménagement de mon premier appartement, un projet personnel désormais réalisé.`
     },
     {
       id: 'attentes',
       title: '🎯 Mes attentes pour ce stage :',
-      content: `Lors de ce stage, je souhaite avant tout de découvrir la prise en charge concrète de patients atteints de pathologies organiques entraînant des répercussions sur leur fonctions cognitives et leur psychisme. Ainsi qu’élucider clairement de mes propres yeux le rôle du psychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
+      content: `Lors de ce stage, je souhaite avant tout découvrir la prise en charge concrète de patients atteints de pathologies organiques entraînant des répercussions sur leur fonctions cognitives et leur psychisme. Ainsi qu’élucider clairement de mes propres yeux, à la manière d'un enquêteur, le rôle du psychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
     },
     {
       id: 'apporter',
@@ -43,7 +43,7 @@ export default function StageReactSite() {
       content: (
         <div>
           <ul style={{ marginLeft: '1.2rem', marginBottom: '1rem' }}>
-            <li>Une présence discrète et à la fois investie</li>
+            <li>Une présence à la fois discrète et investie</li>
             <li>Une capacité d’observation</li>
             <li>Une volonté sincère d’apprendre tout en respectant le cadre thérapeutique</li>
           </ul>
@@ -69,7 +69,7 @@ export default function StageReactSite() {
     {
       id: 'personnel',
       title: '📖 Un mot plus personnel :',
-      content: `En 2022, lors de ma PASS, un cours sur le cerveau et de son anatomie fonctionnelle me tomba entre les mains. Ce fut un tel coup de cœur que je me mis à me renseigner sur les cas ayant été rencontrés lorsqu’un de ces processus viendrait à dysfonctionner. Durant ces recherches, un ouvrage me bouleversa : Le scaphandre et le papillon. Frappée par ce changement si brutal, si cruel de vie, cette deuxième naissance de l’âme d’un papillon dans le corps d’un scaphandre, je m’attelais à la lecture des mémoires de cet homme isolée.  Je fus si touchée qu'encore aujourd'hui, bien que trois années se soient écoulées, je me souviens encore de son histoire. C’est pourquoi, la perspective d’en découvrir davantage sur la neuropsychologie représente pour moi une chance inespérée. Bien que le syndrome de l’enfermement ne touche pas directement une zone corticale, la complexité de sa prise en charge et la souffrance profonde des patients, contraints à vivre une seconde naissance, m’inspirent tout particulièrement. Être neuropsychologue, c’est pouvoir accompagner ces personnes dans leur reconstruction, en mettant en lumière leurs capacités cognitives préservées malgré l’isolement physique. Aider ces individus à se reconstruire, à retrouver une forme de communication et d’autonomie, est une mission qui me passionne et m’anime profondément.`
+      content: `En 2022, lors de ma PASS, un cours sur le cerveau et de son anatomie fonctionnelle me tomba entre les mains. Ce fut un tel coup de cœur que je me mis à me renseigner sur les cas ayant été rencontrés lorsqu’un de ces processus viendrait à dysfonctionner. Durant ces recherches, un ouvrage me bouleversa : Le scaphandre et le papillon. Frappée par ce changement si brutal, si cruel de vie, cette deuxième naissance de l’âme d’un papillon dans le corps d’un scaphandre, je m’attelais à la lecture des mémoires de cet homme isolé.  Je fus si touchée qu'encore aujourd'hui, bien que trois années se soient écoulées, je me souviens encore de son histoire. C’est pourquoi, la perspective d’en découvrir davantage sur la neuropsychologie représente pour moi une chance inespérée. Bien que le syndrome de l’enfermement ne touche pas directement une zone corticale, la complexité de sa prise en charge et la souffrance profonde des patients, contraints à vivre une seconde naissance, m’inspirent tout particulièrement. Être neuropsychologue, c’est pouvoir accompagner ces personnes dans leur reconstruction, en mettant en lumière leurs capacités cognitives préservées malgré l’isolement physique. Aider ces individus à se reconstruire, à retrouver une forme de communication et d’autonomie, est une mission qui me passionne et m’anime profondément.`
     },
   ];
 
