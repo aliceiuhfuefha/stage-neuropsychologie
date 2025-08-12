@@ -19,23 +19,23 @@ export default function StageReactSite() {
   const sections = [
     {
       id: 'pourquoi',
-      title: '🌟 Pourquoi ce stage en neuropsychologie ?',
-      content: `Bientôt en 3ème année de Licence Accès Santé (LAS), je me retrouve à une période charnière : passionnée depuis toujours par les sciences médicales, je m’apprête à réaliser mon rêve et passer à nouveau le concours d’entrée en médecine l’année prochaine. Parallèlement, j'étudie depuis deux ans une discipline pour laquelle j'ai développé un grand intérêt, fondée sur l'écoute et la compréhension de l'autre : la psychologie. La neuropsychologie représenterait donc une occasion unique pour moi de baigner dans un monde où médecine et psychologie s’entrecroisent naturellement.`
+      title: '𝚿 Pourquoi ce stage en psychologie ?',
+      content: `En cette troisième année de licence, je me retrouve à une période charnière : passionnée depuis toujours par les sciences humaines, c'est enfin la concrétisation des connaissances acquises depuis ma L1 à l'observation de la pratique de celles-ci. Ce stage serait ainsi à mes yeux une opportunité pour découvrir la vie d'un service, au-delà des livres de fac, observer comment s'articulent évaluation, accompagnement et travail d'équipe. `
     },
     {
       id: 'interet',
-      title: '🧠 Ce qui m\'intéresse particulièrement dans la neuropsychologie :',
-      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifiques, cliniques, expérimentales ainsi que sa sensibilité relationnelle, au-delà de l’humanité. La neuropsychologie fait appel à des tests standardisés, des évaluations des fonctions cognitives, d’études en somme très poussées sur le cerveau du patient : une des branches de la psychologie qui s’étend si loin qu’elle frôle les feuilles de la médecine. Cette rigueur scientifique et rigoureuse correspond exactement à ce que je recherche pour approfondir mes connaissances. `
+      title: '🧠 Ce qui m\'intéresse particulièrement dans la psychologie :',
+      content: `Cette discipline me fascine par ses différentes facettes à la fois scientifiques, cliniques, expérimentales ainsi que sa sensibilité relationnelle, par-delà la simple humanité. J’aime en apprendre davantage sur des matières scientifiques telles que les neurosciences ou la psychologie cognitive mais aussi sur les domaines de l’observation de l’humain comme la psychologie différentielle. C’est ce dialogue entre connaissances et rencontres qui me motive dans mon projet professionnel.`
     },
     {
       id: 'annee',
-      title: '📅 Concernant l\'année 2024-2025 :',
-      content: `Cette année universitaire fut particulière pour moi, ayant redoublé d'une matière pour pouvoir continuer ma Licence Accès Santé et ainsi passer mon concours. Sans cela, je serai entrée en licence simple de psychologie, mais je souhaitais tenter ma chance. Durant le premier semestre, je me suis pleinement investie dans l'achat et dans l’emménagement de mon premier appartement, un projet personnel désormais réalisé.`
+      title: '📅 Mon parcours cette année',
+      content: `L’année universitaire précédente fut particulière pour moi, me permettant de consolider mes bases et d'apprendre à mieux m’organiser que ce soit dans ma vie quotidienne comme dans mon travail. Un changement indispensable pour la troisième année qui m’attend. J’ai choisi de consacrer mon PPO et mon TER à la psychologie cognitive, alliant découvertes impressionnantes et rigueur des protocoles. En plus de ça, j’ai choisi comme options les matières de Psychologie développementale/différentielle, Neurosciences et à nouveau Psychologie Cognitive ! A côté, le stage me permettra de renforcer ces connaissances théoriques via l’observation de votre travail et serai ravie de potentiellement pouvoir vous soulager dans l’une de vos différentes tâches.`
     },
     {
       id: 'attentes',
       title: '🎯 Mes attentes pour ce stage :',
-      content: `Lors de ce stage, je souhaite avant tout découvrir la prise en charge concrète de patients atteints de pathologies organiques entraînant des répercussions sur leur fonctions cognitives et leur psychisme. Ainsi qu’élucider clairement de mes propres yeux, à la manière d'un enquêteur, le rôle du psychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
+      content: `Lors de ce stage, je souhaite avant tout découvrir la prise en charge concrète de patients, les entretiens, la passation d’échelles validées, leur interprétation. Ainsi qu’élucider clairement de mes propres yeux, à la manière d'un enquêteur, le rôle du psychologue dans ce suivi mais aussi son implication dans l’équipe pluridisciplinaire.`
     },
     {
       id: 'apporter',
@@ -52,24 +52,24 @@ export default function StageReactSite() {
     },
     {
       id: 'signification',
-      title: '🔮 Ce que ce stage représente pour moi :',
+      title: '📜 Ce que ce stage représente pour moi :',
       content: (
         <div>
           <ul style={{ marginLeft: '1.2rem', marginBottom: '1rem' }}>
-            <li>L’opportunité d’en apprendre davantage sur les liens entre les structures du cerveau et ses fonctions cognitives grâce à la relation à la fois humaine et scientifique de patient-neuropsychologue.</li>
+            <li>L’opportunité de participer et observer, sous votre supervision, des entretiens, comprendre ainsi la relation à la fois humaine et scientifique de patient-psychologue.</li>
             <li>Le suivi réel et étendu du patient qui ne se cantonne pas à une ou deux séances, dans une profession où le patient n’est pas qu’un simple malade mais un être humain.</li>
-            <li>Le caractère scientifique et clinique dans les coulisses des sessions.</li>
-            <li>Assister à la rééducation de certains patients par le biais du neuropsychologue.</li>
-            <li>Les dessous administratifs de ce métier (s’il y en a).</li>
+            <li>Le caractère scientifique et clinique dans les coulisses des sessions, en m’initiant à la passation d’outils cliniques et à leur interprétation.</li>
+            <li>Rédiger des notes structurées sur toute cette expérience professionnelle.</li>
+            <li>Les dessous administratifs de ce métier (s’il y en a) et l'observation des réunions d'équipe.</li>
           </ul>
-          <p>En somme, le quotidien d’un neuropsychologue !</p>
+          <p>En somme, le quotidien d’un psychologue !</p>
         </div>
       )
     },
     {
       id: 'personnel',
-      title: '📖 Un mot plus personnel :',
-      content: `En 2022, lors de ma PASS, un cours sur le cerveau et de son anatomie fonctionnelle me tomba entre les mains. Ce fut un tel coup de cœur que je me mis à me renseigner sur les cas ayant été rencontrés lorsqu’un de ces processus viendrait à dysfonctionner. Durant ces recherches, un ouvrage me bouleversa : Le scaphandre et le papillon. Frappée par ce changement si brutal, si cruel de vie, cette deuxième naissance de l’âme d’un papillon dans le corps d’un scaphandre, je m’attelais à la lecture des mémoires de cet homme isolé.  Je fus si touchée qu'encore aujourd'hui, bien que trois années se soient écoulées, je me souviens encore de son histoire. C’est pourquoi, la perspective d’en découvrir davantage sur la neuropsychologie représente pour moi une chance inespérée. Bien que le syndrome de l’enfermement ne touche pas directement une zone corticale, la complexité de sa prise en charge et la souffrance profonde des patients, contraints à vivre une seconde naissance, m’inspirent tout particulièrement. Être neuropsychologue, c’est pouvoir accompagner ces personnes dans leur reconstruction, en mettant en lumière leurs capacités cognitives préservées malgré l’isolement physique. Aider ces individus à se reconstruire, à retrouver une forme de communication et d’autonomie, est une mission qui me passionne et m’anime profondément.`
+      title: '🔍 Un mot plus personnel :',
+      content: `En 2022, lors de ma PASS, un cours sur le cerveau et son anatomie fonctionnelle me tomba entre les mains. Ce fut un tel coup de cœur que je me mis à me renseigner, non seulement sur les pathologies, mais aussi sur les différents rôles de l’encéphale : l’attention, le langage, la mémoire… Durant ces recherches, un ouvrage me bouleversa : Le scaphandre et le papillon. Frappée par ce changement si brutal, si cruel de vie, cette deuxième naissance de l’âme d’un papillon dans le corps d’un scaphandre, je m’attelais à la lecture des mémoires de cet homme isolé. Je fus si touchée qu'encore aujourd'hui, bien que trois années se soient écoulées, je me souviens encore de son histoire. La complexité de sa prise en charge et la souffrance profonde des patients, contraints à vivre une seconde naissance, m’inspirent tout particulièrement. C’est cette lecture qui m’a tournée vers cette discipline, la psychologie et son humanité. Celle-ci également qui m’a orientée vers mes choix de matières pour cette 3ème année de licence. Pouvoir relier des données solides et théoriques à la singularité de chaque être humain serait au-delà de toutes mes aspirations.`
     },
   ];
 
